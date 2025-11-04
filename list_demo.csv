@@ -1,0 +1,4 @@
+﻿No,File_ID,Document_Name,Pages_to_Split,Output_Q_Name,Output_E_Name
+1,A-001,仕様書_Alpha,3,REQ-A001,SPEC-A001
+2,B-002,契約書_Beta,5,REQ-B002,SPEC-B002
+3,C-003,マニュアル_Gamma,1,REQ-C003,SPEC-C003
